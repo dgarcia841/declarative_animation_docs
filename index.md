@@ -13,6 +13,8 @@ Desarrollado y escrito por Daniel García.
 
 - Lea la documentación del modelo matemático en [este enlace](https://dgarcia841.github.io/declarative_animation_docs/model/index.html).
 
+- Vea algunos ejemplos en [este enlace](https://dgarcia841.github.io/declarative_animation_docs/samples/index.html).
+
 ## Introducción
 A partir de los requerimientos establecidos para el proyecto, 
 se ha definido una estructura del lenguaje de comandos que se 
