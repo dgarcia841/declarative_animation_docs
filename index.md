@@ -6,6 +6,8 @@ utilizar la herramienta.
 
 Desarrollado y escrito por Daniel García.
 
+![Demostration 1](https://raw.githubusercontent.com/dgarcia841/declarative_animation_docs/main/demostration-1.gif)
+
 ## Enlaces
 - Lea la referencia del lenguaje en [este enlace](https://dgarcia841.github.io/declarative_animation_docs/api/index.html).
 
