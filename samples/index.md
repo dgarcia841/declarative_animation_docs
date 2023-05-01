@@ -1,4 +1,4 @@
 # Ejemplos
 
-- [Distribución binomial](binomial.md)
-- [Estrella de curvas parabólicas](star.md)
+- [Distribución binomial](binomial/index.html)
+- [Estrella de curvas parabólicas](star/index.html)
